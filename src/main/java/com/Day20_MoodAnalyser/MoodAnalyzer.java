@@ -1,6 +1,7 @@
 package com.Day20_MoodAnalyser;
 
 public class MoodAnalyzer {
+
 	private String message;
 
 	public MoodAnalyzer() {
